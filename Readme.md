@@ -5,14 +5,15 @@ this mini game you can play in your console/ternimal. reach fruit `o` to win the
 
 # Gameplay
 move only accepted: left, right, up, down
-"-----------------------------------------"
+
+
 x : player
 o : fruit
 0 : Bom
-"-----------------------------------------"
-"-----------------"
+
+
 move still : 14
-"-----------------"
+
 [o][ ][ ][ ][ ][ ][ ]
 [ ][0][ ][0][ ][0][0]
 [ ][0][ ][0][ ][0][ ]
@@ -20,7 +21,8 @@ move still : 14
 [ ][0][ ][ ][ ][0][0]
 [ ][0][ ][0][ ][0][0]
 [ ][ ][ ][ ][x][ ][ ]
-"-----------------"
+
+
 
 
 ## To run the game
